@@ -8,7 +8,11 @@
 ---
 
 ## About Me
-I combine biomedical knowledge with data science to explore genomic datasets and complex biological signals. My current interests include how visualisation and sonification can support interpretation of large-scale genomic data, and how AI methods can be applied across multiple imaging modalities for research and clinical insight. I value clear, reproducible workflows and analytical approaches grounded in domain understanding.
+I am a Master of Data Science graduate from QUT with a background in biomedical science at UQ. I combine biomedical knowledge with computational methods to explore how data can support early prediction and informed clinical decision-making.
+
+My research interests centre on explainable AI for critical care, particularly the prediction of postoperative atrial fibrillation (POAF). My proposed PhD research focuses on integrating continuous multimodal ICU monitoring data with electronic health records to identify patterns preceding POAF onset and make predictions interpretable to clinicians.
+
+Through applied projects in biomedical data analysis, information retrieval, and data-driven decision support, I have developed a strong interest in reproducible workflows, rigorous model evaluation, and approaches grounded in clinical and biological understanding.
 
 ---
 
@@ -21,18 +25,21 @@ SQL (PostgreSQL)
 Jupyter Notebook, VS Code, Git/GitHub  
 
 **Areas of Interest & Ongoing Learning**  
-- Genomic data analysis  
-- Visualisation and sonification of genomic data  
-- AI-based multimodal imaging analysis  
-- Research and analytical methods  
+- Explainable AI (XAI) for critical care and clinical decision support
+- Early prediction of postoperative atrial fibrillation (POAF)
+- Clinical time-series modelling and physiological signal analysis
+- Multimodal integration of continuous ICU monitoring data and electronic health records
+- Model validation, calibration, and clinical interpretability
+- Biomedical and genomic data analysis
 
 ---
 
 ## Current Focus
-- Genomic data visualisation and sonification  
-- AI-based approaches to analyse multiple imaging modalities  
-- Strengthening computational genomics capabilities  
-- Preparing for research aligned with QUT genomics and imaging topics
+- Preparing for proposed PhD research on early prediction of postoperative atrial fibrillation
+- Exploring machine learning and deep learning methods for physiological time-series
+- Investigating the integration of continuous ICU monitoring signals and electronic health records
+- Examining explainable AI methods and their role in clinician trust and interpretation
+- Developing approaches to temporal validation, data leakage prevention, and model calibration
 
 ---
 
