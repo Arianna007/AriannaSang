@@ -6,9 +6,9 @@
 
 ## About Me
 
-I am a Master of Data Science graduate from QUT with a biomedical science background from UQ. My applied experience includes biomedical data analysis, information retrieval, interactive dashboards, and backend data integration.
+I am a Master of Data Science graduate from QUT with a biomedical science background from UQ. My interests span clinical data science and health AI engineering. I aim to combine healthcare data analysis with the development of reliable, interpretable AI systems that support clinical prediction and decision-making.
 
-My proposed PhD research aims to forecast postoperative atrial fibrillation (POAF) up to six hours before onset in patients following cardiac surgery, using continuous multimodal ICU monitoring data and relevant electronic health records. I am particularly interested in XAI, rigorous model evaluation, and clinically meaningful predictions.
+My proposed PhD research aims to forecast postoperative atrial fibrillation (POAF) up to six hours before onset in patients following cardiac surgery, using continuous multimodal ICU monitoring data and relevant electronic health records. I am particularly interested in explainable AI, rigorous model evaluation, and clinically meaningful predictions.
 
 ## Skills & Tools
 
@@ -19,13 +19,14 @@ My proposed PhD research aims to forecast postoperative atrial fibrillation (POA
 
 ## Selected Projects
 
-* **VegiLedger:** Developed analytics dashboards and Django backend features for live weather integration, crop alerts, and Twilio SMS notifications in a QUT capstone project with Orefox AI Limited.
+* **[VegiLedger — Smart Garden & Farm Analytics](https://github.com/Arianna007/vegiledger_dashboard):** Developed analytics dashboards and Django backend features for live weather integration, crop alerts, and Twilio SMS notifications in a QUT capstone project with Orefox AI Limited.
+* **[GNN-Based Drug–Drug Interaction Prediction](https://github.com/Arianna007/GNN-DDI-Project):** Explores graph neural network approaches to predicting drug–drug interactions.
 * **NLP & Information Retrieval:** Contributed to retrieval-model development and evaluation across 50 topics, comparing BM25, Jelinek–Mercer smoothing, and pseudo-relevance feedback.
 * **Biomedical Data Analysis:** Applied RNA-seq differential expression methods and developed Python workflows for CRISPR guide-RNA design and variant-aware sequence analysis.
 
 ## Research Interests
 
-* XAI for critical care and clinical decision support
+* Explainable AI for critical care and clinical decision support
 * Early prediction of postoperative atrial fibrillation
 * Physiological time-series and multimodal clinical data
 * Model validation, calibration, and interpretability
@@ -35,4 +36,5 @@ My proposed PhD research aims to forecast postoperative atrial fibrillation (POA
 * **LinkedIn:** [songyi-sang](https://www.linkedin.com/in/songyi-sang)
 * **GitHub:** [Arianna007](https://github.com/Arianna007)
 * **Email:** [arirang.nana07@gmail.com](mailto:arirang.nana07@gmail.com)
+
 
