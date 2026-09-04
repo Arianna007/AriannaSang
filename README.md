@@ -1,8 +1,8 @@
 # Songyi Sang — Biomedical Data Science & AI for Health
 
-📍 Brisbane, Australia
-🎓 Master of Data Science (QUT) | Biomedical Science background (UQ)
-🫀 Explainable AI (XAI) · Clinical time-series · Critical care
+* 📍 Brisbane, Australia
+* 🎓 Master of Data Science (QUT) | Biomedical Science background (UQ)
+* 🫀 Explainable AI (XAI) · Clinical time-series · Critical care
 
 ## About Me
 
