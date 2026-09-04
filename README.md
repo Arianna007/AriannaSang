@@ -3,7 +3,7 @@
 🌱 Exploring genomics and data-driven biological analysis  
 📍 Brisbane, Australia  
 🎓 Master of Data Science (QUT) | Biomedical Science background (UQ)  
-🧬 Interests: genomic data visualisation, sonification, and AI-based analysis of multimodal imaging data
+🫀 Interests: explainable AI (XAI) for critical care, with a proposed PhD focus on forecasting postoperative atrial fibrillation (POAF) using continuous multimodal ICU monitoring data.
 
 ---
 
